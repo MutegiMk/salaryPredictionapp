@@ -1,5 +1,7 @@
 # DEMO
- 
+
+https://user-images.githubusercontent.com/109520639/188887653-3f35de1e-dda3-4d78-962f-6200fb4cf729.mp4
+
 
 # salaryPredictionapp
 This app uses machine learning algorithms to predict salary of developers in different countries powered by streamlit
